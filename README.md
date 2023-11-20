@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @elonmusktarget1trillion
+- 👀 I’m interested in Web dev & Android
+- 🌱 I’m currently learning NextJS
